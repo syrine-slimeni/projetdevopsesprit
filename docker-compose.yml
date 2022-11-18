@@ -19,6 +19,7 @@ services:
    - "nexus-data:/sonatype-work"
 
 volumes:
+
  sonarQube_data:
  sonarQube_extensions:
  sonarQube_logs:
